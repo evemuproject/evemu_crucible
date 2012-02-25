@@ -10,6 +10,8 @@ scale. Our software is not intended for running public servers,
 and we do not support that. We are not responsible for what others 
 do with the source code downloaded from this project. 
 
+# Supported client is Crucible v1.0.1 build 323364
+
 # Status
 - Login works again
 - Character selection and creation is working
